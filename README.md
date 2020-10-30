@@ -1,0 +1,2 @@
+# ReportMenu-Retexture-by-FragKey
+Greek Report Menu Retexture By Fragkey that your players can access by pressing I, you can change the Key and modify the script inside example.lua. Make sure the change the webhook that is inside server.lua Once a player has reported a bug/player then it will send a webhook to a discord channel of your choice so your staff members can take action. Enjoy!  If you have any questions, feel free to ask me in the comments or contact with me: Discord: FragKey#1616
